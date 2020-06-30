@@ -2,7 +2,7 @@
 
 My animated avatar.
 
-![Tom Chen's animated GIF avatar](https://github.com/tomchen/my-avatar/raw/master/tomchen.gif "Tom Chen's animated GIF avatar")
+<img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="110px" width="110px">
 
 ![Tom Chen's non-animated SVG avatar](https://github.com/tomchen/my-avatar/raw/master/tomchen.svg "Tom Chen's non-animated SVG avatar")
 
