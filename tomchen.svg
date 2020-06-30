@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+  xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="110px" height="110px" viewBox="0 0 110 110">
+  <defs>
+    <radialGradient id="Gradient_1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="37.412499999999994" fx="0" fy="0" gradientTransform="matrix( 1.0000000000000002, 0, 0, 1.0010023387905114, 31,41.55) " spreadMethod="repeat">
+      <stop offset="43.92156862745098%" stop-color="#FFFFFF"/>
+
+      <stop offset="100%" stop-color="#CAF5FF"/>
+    </radialGradient>
+
+    <radialGradient id="Gradient_2" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="27.112499999999997" fx="0" fy="0" gradientTransform="matrix( 1.0000000000000002, 0, 0, 1.0000000000000002, 82.3,45.6) " spreadMethod="repeat">
+      <stop offset="43.92156862745098%" stop-color="#FFFFFF"/>
+
+      <stop offset="100%" stop-color="#CAF5FF"/>
+    </radialGradient>
+
+    <radialGradient id="Gradient_3" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="28.35" fx="0" fy="0" gradientTransform="matrix( 1, 0, 0, 1.0008818342151675, 32.8,50.85) " spreadMethod="repeat">
+      <stop offset="78.82352941176471%" stop-color="#FFFFFF" stop-opacity="0"/>
+
+      <stop offset="100%" stop-color="#CAF5FF"/>
+    </radialGradient>
+
+    <radialGradient id="Gradient_4" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="21.112499999999997" fx="0" fy="0" gradientTransform="matrix( 1.0000000000000002, 0, 0, 1.0000000000000002, 85.4,50.65) " spreadMethod="repeat">
+      <stop offset="81.96078431372548%" stop-color="#CAF5FF" stop-opacity="0"/>
+
+      <stop offset="100%" stop-color="#CAF5FF"/>
+    </radialGradient>
+
+    <radialGradient id="Gradient_5" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="11.650000000000002" fx="0" fy="0" gradientTransform="matrix( 0.9999999999999998, 0, 0, 0.9999999999999998, 10.3,11.3) " spreadMethod="pad">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+
+      <stop offset="79.2156862745098%" stop-color="#000000"/>
+
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+
+    <radialGradient id="Gradient_6" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="7.824999999999999" fx="0" fy="0" gradientTransform="matrix( 1, 0, 0, 1, 10.2,10.1) " spreadMethod="pad">
+      <stop offset="0%" stop-color="#666666"/>
+
+      <stop offset="57.254901960784316%" stop-color="#000000"/>
+
+      <stop offset="100%" stop-color="#101010"/>
+    </radialGradient>
+
+    <radialGradient id="Gradient_7" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="11.65" fx="0" fy="0" gradientTransform="matrix( 1, 0, 0, 1, 10.35,11.3) " spreadMethod="pad">
+      <stop offset="0%" stop-color="#010101" stop-opacity="0"/>
+
+      <stop offset="94.90196078431373%" stop-color="#000000"/>
+    </radialGradient>
+
+    <radialGradient id="Gradient_8" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="4.176197433072341" fx="0" fy="0" gradientTransform="matrix( 0.8141377543778364, -0.5806717806959568, 0.3352331929791091, 0.4729182543812432, 5.2,6.2) " spreadMethod="pad">
+      <stop offset="37.64705882352941%" stop-color="#FFFFFF"/>
+
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="Gradient_9" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="9.475" fx="0" fy="0" gradientTransform="matrix( 1.0000000000000002, 0, 0, 1.0000000000000002, 8.4,9.2) " spreadMethod="pad">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+
+      <stop offset="79.2156862745098%" stop-color="#000000"/>
+
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+
+    <radialGradient id="Gradient_10" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="6.375" fx="0" fy="0" gradientTransform="matrix( 1, 0, 0, 1, 8.15,8.45) " spreadMethod="pad">
+      <stop offset="0%" stop-color="#666666"/>
+
+      <stop offset="57.254901960784316%" stop-color="#000000"/>
+
+      <stop offset="100%" stop-color="#101010"/>
+    </radialGradient>
+
+    <radialGradient id="Gradient_11" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="9.474999999999998" fx="0" fy="0" gradientTransform="matrix( 1.0000000000000002, 0, 0, 1.0000000000000002, 8.45,9.2) " spreadMethod="pad">
+      <stop offset="0%" stop-color="#010101" stop-opacity="0"/>
+
+      <stop offset="94.90196078431373%" stop-color="#000000"/>
+    </radialGradient>
+
+    <radialGradient id="Gradient_12" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="3.2390440333530512" fx="0" fy="0" gradientTransform="matrix( 0.818142628723922, -0.5750153381125678, 0.33574721084425097, 0.4669587645075215, 4.2,5.15) " spreadMethod="pad">
+      <stop offset="37.64705882352941%" stop-color="#FFFFFF"/>
+
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <g id="Layer6_0_FILL">
+      <path fill="#000000" stroke="none" d="
+M 110 110
+L 110 0 0 0 0 110 110 110 Z"/>
+    </g>
+
+    <g id="Layer5_0_FILL">
+      <path fill="url(#Gradient_1)" stroke="none" d="
+M 49.75 28.15
+Q 49.5 27.95 49.3 27.75 42.25 22.55 32.95 22.55 23.7 22.55 16.6 27.75 16.35 27.95 16.1 28.15 15.55 28.55 15.05 29.05 14.1 29.8 13.2 30.7 6.5 37.45 5.3 46.5 5 48.45 5 50.5 5.05 62.1 13.2 70.3 21.4 78.45 32.95 78.45 44.55 78.45 52.7 70.3 60.9 62.1 60.9 50.5 60.9 48.45 60.7 46.5 59.45 37.45 52.7 30.7 51.8 29.8 50.85 29.05 50.3 28.55 49.75 28.15 Z"/>
+
+      <path fill="url(#Gradient_2)" stroke="none" d="
+M 106.2 47.25
+Q 105.15 40.85 100.3 36 94.2 29.85 85.5 29.9 76.8 29.85 70.6 36 65.8 40.85 64.8 47.25 64.5 49 64.5 50.9 64.5 59.55 70.6 65.65 76.8 71.85 85.5 71.85 94.2 71.85 100.3 65.65 106.5 59.55 106.5 50.9 106.5 49 106.2 47.25 Z"/>
+    </g>
+
+    <g id="Layer4_0_FILL">
+      <path fill="url(#Gradient_3)" stroke="none" d="
+M 49.75 28.15
+Q 49.5 27.95 49.3 27.75 42.25 22.55 32.95 22.55 23.7 22.55 16.6 27.75 16.35 27.95 16.1 28.15 15.55 28.55 15.05 29.05 14.1 29.8 13.2 30.7 6.5 37.45 5.3 46.5 5 48.45 5 50.5 5.05 62.1 13.2 70.3 21.4 78.45 32.95 78.45 44.55 78.45 52.7 70.3 60.9 62.1 60.9 50.5 60.9 48.45 60.7 46.5 59.45 37.45 52.7 30.7 51.8 29.8 50.85 29.05 50.3 28.55 49.75 28.15 Z"/>
+
+      <path fill="url(#Gradient_4)" stroke="none" d="
+M 106.2 47.25
+Q 105.15 40.85 100.3 36 94.2 29.85 85.5 29.9 76.8 29.85 70.6 36 65.8 40.85 64.8 47.25 64.5 49 64.5 50.9 64.5 59.55 70.6 65.65 76.8 71.85 85.5 71.85 94.2 71.85 100.3 65.65 106.5 59.55 106.5 50.9 106.5 49 106.2 47.25 Z"/>
+    </g>
+
+    <g id="Layer3_0_FILL">
+      <path fill="#FFFF99" stroke="none" d="
+M 62.4 87.7
+Q 61.55 86.3 59.6 83.95 57.4 81.3 56.85 81.3 55.2 81.3 55.2 83.05 55.2 83.6 57.85 87.6 60.8 92 62.25 92 63.55 92 71.5 83.85 71.5 81.95 69.9 81.95 64 86.8 62.4 87.7 Z"/>
+    </g>
+
+    <g id="left_eye_0_Layer3_0_FILL">
+      <path fill="url(#Gradient_5)" stroke="none" d="
+M 18.2 9.1
+Q 18.2 5.35 15.5 2.65 12.85 0 9.1 0 5.35 0 2.65 2.65 0 5.35 0 9.1 0 12.85 2.65 15.5 5.35 18.2 9.1 18.2 12.85 18.2 15.5 15.5 18.2 12.85 18.2 9.1 Z"/>
+    </g>
+
+    <g id="left_eye_0_Layer2_0_FILL">
+      <path fill="url(#Gradient_6)" stroke="none" d="
+M 15.1 9.4
+Q 15.1 9.3005859375 15.1 9.2 15.1 6.75 13.35 5 11.65 3.3 9.2 3.3 6.75 3.3 5 5 3.3 6.75 3.3 9.2 3.3 9.3005859375 3.3 9.4
+L 3.3 9.4
+Q 3.376171875 11.726171875 5 13.35 6.75 15.1 9.2 15.1 11.65 15.1 13.35 13.35 15.028125 11.7197265625 15.1 9.4 Z"/>
+    </g>
+
+    <g id="left_eye_0_Layer1_0_FILL">
+      <path fill="url(#Gradient_7)" stroke="none" d="
+M 9.15 18.2
+Q 12.9 18.2 15.55 15.5 18.25 12.85 18.25 9.1 18.25 5.35 15.55 2.65 12.9 0 9.15 0 5.4 0 2.7 2.65 0.05 5.35 0.05 9.1 0.05 12.85 2.7 15.5 5.4 18.2 9.15 18.2 Z"/>
+    </g>
+
+    <g id="left_eye_0_Layer0_0_FILL">
+      <path fill="url(#Gradient_8)" stroke="none" d="
+M 4.1 9.35
+Q 5.498828125 9.249609375 6.85 8.25 8.208203125 7.2689453125 8.7 6 9.30234375 4.7466796875 8.7 3.9 8.1255859375 3.112890625 6.7 3.2 5.3849609375 3.3451171875 4 4.3 2.6625 5.2884765625 2.05 6.5 1.5697265625 7.810546875 2.15 8.65 2.7583984375 9.48125 4.1 9.35 Z"/>
+    </g>
+
+    <g id="right_eye_0_Layer3_0_FILL">
+      <path fill="url(#Gradient_9)" stroke="none" d="
+M 14.8 7.4
+Q 14.8107421875 4.3599609375 12.6 2.15 10.459765625 0.0091796875 7.4 0 4.3599609375 0.0091796875 2.15 2.15 0.0091796875 4.3599609375 0 7.4 0.0091796875 10.459765625 2.15 12.6 4.3599609375 14.8107421875 7.4 14.8 10.459765625 14.8107421875 12.6 12.6 14.8107421875 10.459765625 14.8 7.4 Z"/>
+    </g>
+
+    <g id="right_eye_0_Layer2_0_FILL">
+      <path fill="url(#Gradient_10)" stroke="none" d="
+M 10.85 10.85
+Q 12.216015625 9.5427734375 12.25 7.65 12.275 7.5876953125 12.25 7.5 12.2744140625 5.48984375 10.85 4.05 9.4798828125 2.683203125 7.5 2.7 5.48984375 2.683203125 4.05 4.05 2.683203125 5.48984375 2.7 7.5 2.7 7.5876953125 2.7 7.65
+L 2.7 7.7
+Q 2.744921875 9.550390625 4.05 10.85 5.48984375 12.2744140625 7.5 12.25 9.4798828125 12.2744140625 10.85 10.85 Z"/>
+    </g>
+
+    <g id="right_eye_0_Layer1_0_FILL">
+      <path fill="url(#Gradient_11)" stroke="none" d="
+M 12.65 12.6
+Q 14.8607421875 10.459765625 14.85 7.4 14.8607421875 4.3599609375 12.65 2.15 10.5099609375 0.0091796875 7.45 0 4.3849609375 0.0091796875 2.15 2.15 0.0341796875 4.3599609375 0.05 7.4 0.0341796875 10.459765625 2.15 12.6 4.3849609375 14.8107421875 7.45 14.8 10.5099609375 14.8107421875 12.65 12.6 Z"/>
+    </g>
+
+    <g id="right_eye_0_Layer0_0_FILL">
+      <path fill="url(#Gradient_12)" stroke="none" d="
+M 3.35 3.7
+Q 2.2998046875 4.4689453125 1.85 5.45 1.455078125 6.421875 1.9 7.05 2.37890625 7.674609375 3.4 7.55 4.50546875 7.5126953125 5.55 6.75 6.584375 6.023046875 6.95 5.05 7.4169921875 4.0578125 6.95 3.4 6.5193359375 2.7798828125 5.4 2.85 4.404296875 2.955078125 3.35 3.7 Z"/>
+    </g>
+  </defs>
+
+  <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+    <use xlink:href="#Layer6_0_FILL"/>
+  </g>
+
+  <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+    <use xlink:href="#Layer5_0_FILL"/>
+  </g>
+
+  <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+    <use xlink:href="#Layer4_0_FILL"/>
+  </g>
+
+  <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+    <use xlink:href="#Layer3_0_FILL"/>
+  </g>
+
+  <g transform="matrix( 1, 0, 0, 1, 21.2,57.85) ">
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+      <use xlink:href="#left_eye_0_Layer3_0_FILL"/>
+    </g>
+
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+      <use xlink:href="#left_eye_0_Layer2_0_FILL"/>
+    </g>
+
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+      <use xlink:href="#left_eye_0_Layer1_0_FILL"/>
+    </g>
+
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+      <use xlink:href="#left_eye_0_Layer0_0_FILL"/>
+    </g>
+  </g>
+
+  <g transform="matrix( 1, 0, 0, 1, 70.85,32.85) ">
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+      <use xlink:href="#right_eye_0_Layer3_0_FILL"/>
+    </g>
+
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+      <use xlink:href="#right_eye_0_Layer2_0_FILL"/>
+    </g>
+
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+      <use xlink:href="#right_eye_0_Layer1_0_FILL"/>
+    </g>
+
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+      <use xlink:href="#right_eye_0_Layer0_0_FILL"/>
+    </g>
+  </g>
+</svg>
