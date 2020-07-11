@@ -27,11 +27,13 @@ Notes on social media:
 
 ### Image width and height
 
-You can't set width and height on images by using GitHub Flavored Markdown, in order to do so, you have to use HTML
+You can't set width and height on images by using GitHub Flavored Markdown, in order to do so, you have to use HTML:
 
 ```html
 <img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="110px" width="110px">
 ```
+
+You can't use `aria-label` in HTML or Markdown.
 
 ### Image URL
 

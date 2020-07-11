@@ -2,7 +2,7 @@
 
 ## Markdown
 
-```html
+```markdown
 ![Tom Chen's animated GIF avatar](https://github.com/tomchen/my-avatar/raw/master/tomchen.gif | width=30)
 ```
 
@@ -14,7 +14,7 @@ renders as:
 
 ---
 
-```html
+```markdown
 ![Tom Chen's animated GIF avatar](https://github.com/tomchen/my-avatar/raw/master/tomchen.gif =30x110)
 ```
 
@@ -165,6 +165,18 @@ renders as:
 ---
 
 (The three aforementioned all render as exactly the same thing)
+
+## ARIA
+
+```html
+<img src="https://github.com/tomchen/my-avatar/blob/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" aria-label="Tom Chen's animated GIF avatar" height="110px" width="110px">
+```
+
+(HTML image element with `aria-label`) renders as:
+
+<img src="https://github.com/tomchen/my-avatar/blob/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" aria-label="Tom Chen's animated GIF avatar" height="110px" width="110px">
+
+❌ `aria-label` is stripped
 
 ## Image License
 
