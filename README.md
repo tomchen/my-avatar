@@ -53,7 +53,7 @@ Unicode character `😊` and GitHub Flavored Markdown `:blush:` render as exactl
 
 ### SVG animation
 
-In SVG files, SMIL and CSS animation are kept, but JavaScript animation is sanitized.
+In SVG files, SMIL and CSS animation are kept, but any JavaScript code will be sanitized.
 
 ### GitHub README.md Image Support Tests
 

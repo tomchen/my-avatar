@@ -64,6 +64,18 @@ renders as:
 
 ---
 
+```markdown
+![SVG](https://github.com/tomchen/svg-clock/blob/master/clock.svg)
+```
+
+(SMIL-based animation + JavaScript to set current time) renders as:
+
+![SVG](https://github.com/tomchen/svg-clock/blob/master/clock.svg)
+
+✅❌ (the JavaScript code is sanitized, but SMIL-based animation is kept)
+
+---
+
 ## URL
 
 ```html
