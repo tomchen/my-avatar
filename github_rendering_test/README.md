@@ -114,6 +114,46 @@ renders as:
 
 ---
 
+## Emoji / Unicode Emoticon
+
+```markdown
+😊
+```
+
+(:point_up: Unicode character)
+
+renders as:
+
+😊
+
+---
+
+```markdown
+:blush:
+```
+
+(:point_up: GitHub Flavored Markdown `:EMOJINAME:`)
+
+renders as:
+
+:blush:
+
+---
+
+```markdown
+<g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji>
+```
+
+(:point_up: HTML in markdown)
+
+renders as:
+
+<g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji>
+
+---
+
+(The three aforementioned all render as exactly the same thing)
+
 ## Image License
 
 See [LICENSE.md](LICENSE.md)

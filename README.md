@@ -18,18 +18,42 @@ The SVG file is exported from Flash without animation. It is planned to re-add t
 
 Notes on social media:
 
-* :muscle: **Google**, **Medium**, **Stackoverflow**, **Dev.to** users can use animated GIF as their profile avatar.
-* :neutral_face: Although **Google** accepts animated GIF, but it is sometimes rendered as still image.
-* :no_entry: **GitHub**, **GitLab**, **Reddit**, **Gravatar** do not accept animated GIF.
-* :zipper_mouth_face: **Twitter** used to accept animated GIF before 2012. Old user with an animated GIF avatar can keep it.
+* ✅ **Google**, **Medium**, **Stackoverflow**, **Dev.to** users can use animated GIF as their profile avatar.
+* 😐 Although **Google** accepts animated GIF, but it is sometimes rendered as still image.
+* ⛔ **GitHub**, **GitLab**, **Reddit**, **Gravatar** do not accept animated GIF.
+* 🤐 **Twitter** used to accept animated GIF before 2012. Old user with an animated GIF avatar can keep it.
 
-## Tips of images in GitHub README.md
+## Tips of GitHub image usage
+
+### Image width and height
 
 You can't set width and height on images by using GitHub Flavored Markdown, in order to do so, you have to use HTML
 
 ```html
 <img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="110px" width="110px">
 ```
+
+### Image URL
+
+These image URL references are all acceptable:
+```
+https://github.com/tomchen/my-avatar/raw/master/tomchen.gif
+https://github.com/tomchen/my-avatar/blob/master/tomchen.gif
+https://raw.githubusercontent.com/tomchen/my-avatar/master/tomchen.gif
+../tomchen.gif
+```
+
+### Emoji
+
+Unicode character `😊` and GitHub Flavored Markdown `:blush:` render as exactly the same 😊 whose HTML code is:
+
+```html
+<g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji>
+```
+
+### SVG animation
+
+In SVG files, SMIL and CSS animation are kept, but JavaScript animation is sanitized.
 
 ### GitHub README.md Image Support Tests
 
