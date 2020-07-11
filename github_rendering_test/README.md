@@ -15,12 +15,12 @@ renders as:
 ---
 
 ```html
-![Tom Chen's animated GIF avatar](https://github.com/tomchen/my-avatar/blob/master/tomchen.gif =30x110)
+![Tom Chen's animated GIF avatar](https://github.com/tomchen/my-avatar/raw/master/tomchen.gif =30x110)
 ```
 
 renders as:
 
-![Tom Chen's animated GIF avatar](https://github.com/tomchen/my-avatar/blob/master/tomchen.gif =30x110)
+![Tom Chen's animated GIF avatar](https://github.com/tomchen/my-avatar/raw/master/tomchen.gif =30x110)
 
 ❌
 
