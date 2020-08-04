@@ -72,7 +72,7 @@ renders as:
 
 ![SVG](https://github.com/tomchen/svg-clock/blob/master/clock.svg)
 
-✅❌ (the JavaScript code is sanitized, but SMIL-based animation is kept)
+✅❌ (naturally, JavaScript code can't run in `<img>`, but SMIL/CSS-based animation can run)
 
 ---
 
